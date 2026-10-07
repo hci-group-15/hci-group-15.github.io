@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+# This section is called "Frontmatter". You probably don't have to touch this much
 layout: home
 
 hero:
@@ -8,11 +8,11 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Blog
+      link: /blog
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Project Details
+      link: /project
 
 features:
   - title: Feature A
@@ -22,4 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
+<!-- This is a MD comment, and this is the main page, you probably *don't* want to edit things here -->

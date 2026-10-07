@@ -1,31 +1,40 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "HCI Blog",
-  description: "Project reflection for Human Computer Interaction @ETHZ",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/blog', activeMatch: '/blog' }
-    ],
+    title: "HCI Blog",
+    description: "Project reflection for Human Computer Interaction @ETHZ",
+    themeConfig: {
+        nav: [
+            { text: 'Home', link: '/' },
+            { text: 'Blog', link: '/blog/', activeMatch: '/blog' }
+        ],
 
-    sidebar: {
-        '/blog': [
-            {
-                text: 'Blog',
-                base: '/blog',
-                items: [
-                    { text: 'Introduction', link: '/' },
-                    { text: 'Milestone 1', link: '/milestone1' },
-                ]
-            }
+        sidebar: {
+            '/blog': [
+                {
+                    text: 'Blog',
+                    base: '/blog',
+                    items: [
+                        { text: 'Introduction', link: '/' },
+                        { text: 'Milestone 1', link: '/milestone1' },
+                    ]
+                }
+            ],
+            '/project': [
+                {
+                    text: 'Project',
+                    base: '/project',
+                    items: [
+                        { text: 'Introduction', link: '/' },
+                        { text: 'Links', link: '/links' },
+                    ]
+                }
+            ]
+        },
+
+        socialLinks: [
+        // TODO: Update this when repo changes
+            { icon: 'github', link: 'https://github.com/hci-group-15' }
         ]
-    },
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+    }
 })
