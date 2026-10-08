@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "HCI Blog",
     description: "Project reflection for Human Computer Interaction @ETHZ",
+    srcExclude: ['**/README.md', 'gitlab/**', 'gitlab-readme.md'],
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
