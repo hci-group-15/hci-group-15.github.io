@@ -17,3 +17,5 @@ echo "" >>./gitlab-readme.md
 cat ./blog/final-presentation.md >>./gitlab-readme.md
 echo "" >>./gitlab-readme.md
 cat ./gitlab/end.md >>./gitlab-readme.md
+
+sed --in-place 's/---[a-zA-Z .:-]+---//g' ./gitlab-readme.md
