@@ -6,7 +6,8 @@ export default defineConfig({
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Blog', link: '/blog/', activeMatch: '/blog' }
+            { text: 'Blog', link: '/blog/', activeMatch: '/blog' },
+            { text: 'Project', link: '/project/', activeMatch: '/project' }
         ],
 
         sidebar: {
@@ -16,7 +17,12 @@ export default defineConfig({
                     base: '/blog',
                     items: [
                         { text: 'Introduction', link: '/' },
-                        { text: 'Milestone 1', link: '/milestone1' },
+                        { text: 'Needfinding (M1)', link: '/needfinding' },
+                        { text: 'Ideation (M2)', link: '/ideation' },
+                        { text: 'Lo-Fi Prototype (M2)', link: '/low-fidelity-prototype' },
+                        { text: 'Hi-Fi Prototype', link: '/high-fidelity-prototype' },
+                        { text: 'Final Presentation', link: '/final-presentation' },
+                        { text: 'Evalutation', link: '/evaluation' },
                     ]
                 }
             ],
@@ -34,7 +40,7 @@ export default defineConfig({
 
         socialLinks: [
         // TODO: Update this when repo changes
-            { icon: 'github', link: 'https://github.com/hci-group-15' }
+            { icon: 'github', link: 'https://github.com/hci-group-15/hci-group-15.github.io' }
         ]
     }
 })
