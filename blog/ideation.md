@@ -14,7 +14,7 @@ Judging by the team atmosphere during this process and by the impressive results
 
 Additionally, after all generated ideas were presented to the group in an anonymized manner (the person reading out load was not able to match handwriting to individuals of the group), some group members felt further inspired by the proposed ideas and contributed even more ideas in an unofficial 7th round. This indicates that some ideas were easy to build upon, so in future it would also be interesting to use the other brainstorming method which builds on previous ideas.
 
-Reflection on making the affinity diagram:
+## Affinity Diagram
 
 Since we used paper pieces to record our ideas, constructing the affinity diagram was a very intuitive process of grouping and spatially relating similar themes/goals. We included pieces of paper in a distinguishing color (yellow) to describe use cases inspired by our "How might we" prompts. We thought that writing out specific user needs will help us maintain a user-focused mindset when grouping our ideas. In particular, we were surprised how many "synergies" we found across thematic clusters: ideas what were unrelated in their motivation, but so similar in functionality that they could be combined to enhance the benefits of all original ideas. This is described using concrete examples in the actual report, but it should be noted here that this was a very high-motivation moment for the team that pooled into two lofi prototype ideas quite naturally. Overall on the brainstorming process the only point of improvement is that we should keep more paper prepared next time, as we ran out towards the end. 
 
