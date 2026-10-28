@@ -16,7 +16,14 @@ Additionally, after all generated ideas were presented to the group in an anonym
 
 ## Affinity Diagram
 
-Since we used paper pieces to record our ideas, constructing the affinity diagram was a very intuitive process of grouping and spatially relating similar themes/goals. We included pieces of paper in a distinguishing color (yellow) to describe use cases inspired by our "How might we" prompts. We thought that writing out specific user needs will help us maintain a user-focused mindset when grouping our ideas. In particular, we were surprised how many "synergies" we found across thematic clusters: ideas what were unrelated in their motivation, but so similar in functionality that they could be combined to enhance the benefits of all original ideas. This is described using concrete examples in the actual report, but it should be noted here that this was a very high-motivation moment for the team that pooled into two lofi prototype ideas quite naturally. Overall on the brainstorming process the only point of improvement is that we should keep more paper prepared next time, as we ran out towards the end. 
+Since we used paper pieces to record our ideas, constructing the affinity diagram was a very intuitive process of grouping and spatially relating similar themes and goals.
+We included pieces of paper in a distinguishing color (yellow) to describe use cases inspired by our "How might we" prompts.
+We thought that writing out specific user needs will help us maintain a user-focused mindset when grouping our ideas.
+In particular, we were surprised by how many "synergies" we found across thematic clusters: ideas that were unrelated in their motivation, but so similar in functionality, that they could be combined to enhance the benefits of all original ideas.
+This is described using concrete examples in the actual report, but it should be noted here that this was a very high-motivation moment for the team that pooled into two Lo-Fi Prototype ideas quite naturally.
+The only avenue for improvement is access to more slips of paper, since we ran in some of the categories.
+Alternatively, we could have used FigJam on Figma, which allows doing the same kind of prototyping, but digitally.
+We do however believe that going the analog route has contributed to the overall effectiveness of the brainstorming session.
 
 (insert picture of ripped papers?)
 
