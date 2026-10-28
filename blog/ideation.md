@@ -26,6 +26,6 @@ The only avenue for improvement is access to more slips of paper, since we ran i
 Alternatively, we could have used FigJam on Figma, which allows doing the same kind of prototyping, but digitally.
 We do however believe that going the analog route has contributed to the overall effectiveness of the brainstorming session.
 
-(insert picture of ripped papers?)
+![ripped paper slips](/assets/ideation/ripped-papers.jpg)
 
 The influence of our field research to both the ideas collection and the selection/combination of features for the prototypes was subtle, due to the fact that during brainstorming we had not yet shared the findings of each team members two pieces of related work. Although this was not done on purpose, looking back we think it may have helped us keep diverse mindsets and generate different ideas, since everyone had researched something different ahead of time. In addition, it could have prevented bias towards commonly implemented solutions by either not being able to separate from those ideas, or trying to hard to move away from the convention. In hindsight, we are very satisfied with the impression that the field research on successful design choices for studying with AI aligns with our need finding results, but also that our proposed solutions go beyond what commercial products offer.
