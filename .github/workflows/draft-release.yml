@@ -19,11 +19,11 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v7
       - name: Build the new README
-        run: ./build-readme.md
+        run: ./release.sh
       - name: Draft release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "gitlab-readme.md"
+          artifacts: "dist.zip"
           body: "# Blog release ${{ inputs.tag }}\n\nTODO: Explain what changed here"
           draft: true
           generateReleaseNotes: true

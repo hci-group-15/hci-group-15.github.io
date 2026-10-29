@@ -2,9 +2,11 @@
 
 # [Project name], Group 15
 
-**Student 1, Student 2, Student 3, Student 4, Student 5, Student 6**
+**Janis Hutz, Artem Efremov, Anna Hotin, Alexandru Chirila, Jens Schmidig, Sarah Lim**
 
 For the team, see the [DOCS](./docs.md) for instructions on updating this file and more
+
+**Please note**: This file is auto-generated from the `blog` folder on the [Blog repo](https://aka.janishutz.com/hci-blog-repo).
 
 ---
 

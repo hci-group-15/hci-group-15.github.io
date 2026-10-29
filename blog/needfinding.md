@@ -19,7 +19,7 @@ Since all our respondents had to study for some subjects regardless, this did no
 Alternatively, we could have asked the participants to work on a specific topic,
 but we consider it unlikely that this alternative method would have led to any different conclusions than the ones we have drawn.
 
-![Screenshot of the start page of our survey](/assets/survey.png)
+![Screenshot of the start page of our survey](/assets/needfinding/survey.png)
 
 We also decided to include a [short questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSc0ohkhu2mgnLWIz5Mh-bVDG_nfMSX4gIxOcRUr6pEhVT6dGw/viewform)
 immediately after the study session for two reasons: Firstly, it was meant to give quantitative data which can easily be aggregated easily later on.
@@ -28,7 +28,7 @@ in case there was a maximum of 3 hours difference between the study session and 
 Initially we wanted to include the NASA Task Load Index, which is a commonly used workload assessment tool, however,
 we had technical difficulties implementing the sliders in Google Forms exacerbated by the need to reduce participation time to a minimum, so we abandoned the idea.
 
-![piechart showing AI usage frequency for our respondents](/assets/piechart.png)
+![piechart showing AI usage frequency for our respondents](/assets/needfinding/piechart.png)
 
 Ultimately, we felt that the answers from the questionnaires provided limited insights.
 Given that our sample size was also very small, we felt that the statistics did not contribute much to our understanding.
@@ -100,7 +100,7 @@ Then every researcher was tasked to comment and analyse 6 (out of the total 12) 
 This ensured coverage and perspective diversity when analysing interviews, whilst maintaining efficiency and reducing redundancy.
 We think this method was very efficient and produced good results.
 
-![Screenshot of the analysis of one of the interviews](/assets/interview-annotation.png)
+![Screenshot of the analysis of one of the interviews](/assets/needfinding/interview-annotation.png)
 
 
 ## Persona creation
