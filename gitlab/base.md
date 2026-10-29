@@ -6,6 +6,8 @@
 
 For the team, see the [DOCS](./docs.md) for instructions on updating this file and more
 
+**Please note**: This file is auto-generated from the `blog` folder on the [Blog repo](https://aka.janishutz.com/hci-blog-repo).
+
 ---
 
 ## Blog
