@@ -1,8 +1,5 @@
 # Ideation
 
-```
-MISSING: images. Cannot add them in dev mode?
-```
 ## Brainstorming Process
 
 For the brainstorming method we wrote our ideas on colorful paper squares in an anonymized round-robin fashion, which made the process very engaging for everyone and allowed all members to contribute a large quantity of ideas, without fear of judgement for "bad ideas". 
@@ -10,7 +7,7 @@ We found this method worked very well in terms of idea generation, and also was 
 We introduced this strategy because some members felt overwhelmed with the prospect of generating six ideas "out of thin air".
 Judging by the team atmosphere during this process and by the impressive results, we felt that this approach worked very well. 
 
-![Brainstorming process of the group](/assets/brainstorming/group-photo.jpg)
+![Brainstorming process of the group](/assets/ideation/group-photo.jpg)
 
 Additionally, after all generated ideas were presented to the group in an anonymized manner (the person reading out load was not able to match handwriting to individuals of the group), some group members felt further inspired by the proposed ideas and contributed even more ideas in an unofficial seventh round.
 This indicates that some ideas were easy to build upon, so in future it would also be interesting to use the other brainstorming method which builds on previous ideas.
