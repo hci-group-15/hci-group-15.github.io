@@ -1,9 +1,5 @@
 # Low-fidelity prototype
 
-```
-TODO
-```
-
 Having decided on the key idea and core features of prototypes 1 and 2, we decided to split up our group of 6 into two groups 3 in order spread the workload. The two prototypes thus had very little influence on each other. This strategy appeared effective enough given the time constraints and effort involved in prototyping, although we cannot claim it superior to another strategy, since it is the only we one we used. Going forward (when choosing a single product to develop further), it is possible that the group members of the "chosen" prototype will feel more emotional ownership of the product. However, we do not foresee this becoming a significant issue, as the ideation process involved all members equally and we have demonstrated excellent communication and teamwork skills throughout this project. In the following, the two groups will reflect separately on the process of creating each prototype.
 
 ## Prototype 1
@@ -51,6 +47,12 @@ primarily because heuristic evaluation in our case uncovered most issues, plus s
 Furthermore, experience in the field of UI and UX can much more easily avoid the obvious UI/UX issues that were highlighted in the peer-testing.
 Many of the issues highlighted in the peer-testing were already discovered prior to implementation by a group member with WebDev experience,
 but not highlighted to allow the other members of the group to take their own learnings and to have a more fair balance of contributions to the prototype.
+
+
+## Heuristic Evaluation
+Heuristic Evaluation was quite straight forward, following the lecture notes and especially the guiding questions in the Workbook did help quite a bit.
+This is also something where experience with building user interfaces certainly helps and some experience is luckily present in our team,
+which allowed us to notice most of the issues that were also noticed in the peer-testing and some other ones that weren't brought to light there.
 
 
 ## Success of our ideas
