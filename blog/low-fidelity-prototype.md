@@ -33,7 +33,6 @@ Since we have so many features, the peer testing will give us valuable insight i
 
 Overall, we were surprised to discover that the prototyping phase naturally gave rise to user interaction design questions that we had formally encountered earlier in lectures. We learned a lot in terms of interaction design and workflow (and webdev!) and even got very ambitious in improving our prototype. 
 
-
 ## Peer Testing
 Peer testing was quite straight forward, we approached another group and exchanged two members of our groups for them to do the peer-testing with the respectively other group.
 
