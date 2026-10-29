@@ -100,7 +100,7 @@ Then every researcher was tasked to comment and analyse 6 (out of the total 12) 
 This ensured coverage and perspective diversity when analysing interviews, whilst maintaining efficiency and reducing redundancy.
 We think this method was very efficient and produced good results.
 
-![Screenshot of the analysis of one of the interviews](/assets/assets/interview-annotation.png)
+![Screenshot of the analysis of one of the interviews](/assets/needfinding/interview-annotation.png)
 
 
 ## Persona creation
